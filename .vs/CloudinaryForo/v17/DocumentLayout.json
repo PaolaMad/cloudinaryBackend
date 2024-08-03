@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "CloudinaryForo\\appsettings.Development.json",
               "ToolTip": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\appsettings.Development.json",
               "RelativeToolTip": "CloudinaryForo\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-03T03:22:15.253Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "CloudinaryForo\\Startup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T06:04:40.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T06:04:40.293Z"
             },
             {
               "$type": "Document",
