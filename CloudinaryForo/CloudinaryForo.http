@@ -1,0 +1,6 @@
+@CloudinaryForo_HostAddress = http://localhost:5072
+
+GET {{CloudinaryForo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

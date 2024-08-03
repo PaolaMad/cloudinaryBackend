@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|c:\\sistemas de informacion\\unidad ii\\foro\\cloudinaryforo\\cloudinaryforo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|solutionrelative:cloudinaryforo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|c:\\sistemas de informacion\\unidad ii\\foro\\cloudinaryforo\\cloudinaryforo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|solutionrelative:cloudinaryforo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|c:\\sistemas de informacion\\unidad ii\\foro\\cloudinaryforo\\cloudinaryforo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|solutionrelative:cloudinaryforo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|c:\\sistemas de informacion\\unidad ii\\foro\\cloudinaryforo\\cloudinaryforo\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|solutionrelative:cloudinaryforo\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|c:\\sistemas de informacion\\unidad ii\\foro\\cloudinaryforo\\cloudinaryforo\\dtos\\uploadimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|solutionrelative:cloudinaryforo\\dtos\\uploadimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|c:\\sistemas de informacion\\unidad ii\\foro\\cloudinaryforo\\cloudinaryforo\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67364FEE-366C-4DE9-ACAF-C7A59691E69F}|CloudinaryForo\\CloudinaryForo.csproj|solutionrelative:cloudinaryforo\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CloudinaryForo\\appsettings.Development.json",
+              "ToolTip": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\appsettings.Development.json",
+              "RelativeToolTip": "CloudinaryForo\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T03:22:15.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\Program.cs",
+              "RelativeDocumentMoniker": "CloudinaryForo\\Program.cs",
+              "ToolTip": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\Program.cs",
+              "RelativeToolTip": "CloudinaryForo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:12:00.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\Startup.cs",
+              "RelativeDocumentMoniker": "CloudinaryForo\\Startup.cs",
+              "ToolTip": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\Startup.cs",
+              "RelativeToolTip": "CloudinaryForo\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:04:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "CloudinaryForo\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "CloudinaryForo\\Controllers\\ImagesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:46:40.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "CloudinaryForo\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\Services\\ImageService.cs",
+              "RelativeToolTip": "CloudinaryForo\\Services\\ImageService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:32:47.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UploadImageDto.cs",
+              "DocumentMoniker": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\Dtos\\UploadImageDto.cs",
+              "RelativeDocumentMoniker": "CloudinaryForo\\Dtos\\UploadImageDto.cs",
+              "ToolTip": "C:\\Sistemas de Informacion\\Unidad II\\foro\\CloudinaryForo\\CloudinaryForo\\Dtos\\UploadImageDto.cs",
+              "RelativeToolTip": "CloudinaryForo\\Dtos\\UploadImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:28:23.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
